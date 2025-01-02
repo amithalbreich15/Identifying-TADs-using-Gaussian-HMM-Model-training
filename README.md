@@ -1,9 +1,11 @@
 **Identifying Topologically Associating Domains (TADs) Using a Gaussian Hidden Markov Model (HMM)**
 
 **Overview**
+
 This project presents a computational approach to identify and characterize Topologically Associating Domains (TADs) within chromosomal structures using a Gaussian Hidden Markov Model (HMM). The study leverages high-resolution chromatin interaction data from Hi-C experiments to reveal the 3D genome architecture. Our HMM-based methodology effectively models chromatin interaction patterns and predicts TAD boundaries with high accuracy.
 
 **Key Features**
+
 Data Input: Hi-C datasets processed and normalized to account for biases such as GC content and fragment lengths.
 Scoring Metrics: Includes the Directionality Index (DI) and Insulation Scores to quantify chromatin interactions.
 

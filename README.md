@@ -32,10 +32,15 @@ Computational Biology: Demonstrates the utility of HMMs for analyzing complex ge
 **How to Use**
 
 *Input: Prepare normalized Hi-C data in matrix form.
+
 *Run: Train the Gaussian HMM on DI scores using the provided scripts.
+
 *Output: Predicted TAD boundaries and state transition maps.
+
 *Visualization: Use the included plotting tools for boundary visualization and comparison across datasets.
+
 *Future Enhancements:
+
 Integration of additional genomic features (e.g., ChIP-seq, ATAC-seq) for improved boundary prediction.
 Evaluation of different bin and window sizes for higher-resolution TAD identification.
 Extension to multi-species analysis to uncover evolutionary patterns.

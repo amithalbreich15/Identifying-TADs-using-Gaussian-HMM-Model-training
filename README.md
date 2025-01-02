@@ -45,5 +45,6 @@ Integration of additional genomic features (e.g., ChIP-seq, ATAC-seq) for improv
 Evaluation of different bin and window sizes for higher-resolution TAD identification.
 Extension to multi-species analysis to uncover evolutionary patterns.
 
-**Authors**
+**Authors:**
+
 Amit Halbreich, David Zuravin, Noam Delbari, Yaniv Pasternak, Omer Mushlion, Elisheva Morgenstern
